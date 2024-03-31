@@ -1,0 +1,44 @@
+.logo{
+    width: 160px;
+    height: 150px;
+    /* position: absolute; */
+    margin-left: 2vw;
+}
+
+.body{
+    background-color: rgba(217, 217, 217, 1);
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+}
+
+.box{
+    height: 70vh;
+    margin-top: 0vh;
+    border-radius: 20px;
+    
+}
+
+.from{
+    margin-top: 10vh;
+}
+
+.button{
+    margin-top: 12vh;
+    margin-left: 25vh;
+    width: 20vh;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    padding-left: 35px;
+}
+
+.button1{
+    margin-top: 3vh;
+    margin-left: 20vh;
+    width: 20vh;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    padding-left: 30px;
+}

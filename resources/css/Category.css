@@ -1,0 +1,22 @@
+table{
+    border: 2px white solid;
+    width: 60vw;
+    height: 62vh;
+    margin-top: 25px;
+    margin-left: 30px;
+    color: white;
+    
+ }
+ tr{
+    border: 2px white solid;
+ 
+ }
+ th{
+    border: 2px white solid;
+    padding: 10px;
+ 
+ }
+ td{
+    border: 2px white solid;
+    padding: 10px;
+ }

@@ -1,0 +1,108 @@
+.logo{
+    width: 80px;
+    height: 90px;
+    position: absolute;
+    margin-left: 5vw;
+}
+
+.login{
+    width: 16vh;
+    height: 8vh;
+    background-color: rgba(45, 66, 149, 1);
+    border-radius: 10px;
+    border: 0;
+    position: absolute;
+    margin-left: 75vw;
+    margin-top: 3vh;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    /* padding-top: 10px; */
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.signup{
+    /* background-color: blueviolet; */
+    
+    width: 17vh;
+    height: 8vh;
+    /* background-color: white; */
+    border-radius: 10px;
+    border:2px rgba(45, 66, 149, 1) solid;
+    position: absolute;
+    margin-left: 83vw;
+    margin-top: 3vh;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    /* padding-top: 10px; */
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: 600;
+}
+
+.headername{
+    position: absolute;
+    font-size: 36px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    margin-left: 20vw;
+    margin-top: 2vh;
+    font-weight: 700;
+    position: absolute;
+}
+
+.header{
+    background-color: rgb(31, 31, 31);
+    height: 16vh;
+    /* position: absolute; */
+}
+
+.body{
+    /* background-color: rgba(73, 74, 80, 1); */
+    background-color: rgba(217, 217, 217, 1);
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+}
+
+.dashboard{
+    width: 19vh;
+    height: 8vh;
+    background-color: rgba(45, 66, 149, 1);
+    border-radius: 10px;
+    border: 0;
+    position: absolute;
+    margin-left: 88vw;
+    margin-top: 3vh;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer{
+    width: 100%;
+    height: 7vw;
+    background-color: rgb(31, 31, 31);
+    font-size: 20px;
+    color: white;
+    padding-top: 10px;
+    text-align: center;
+    margin-top: 70vh;
+}
+
+.background{
+    background-image: url("../Photo/background1.jpg");
+    width: 100%;
+    height: 70vh;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 100vw 70vh;
+    opacity: 0.5;
+}
